@@ -5,8 +5,8 @@ README
 
 ## PRODUCT DESCRIPTION
 
-This project is being developed through the subject TDT4140 Software Development at NTNU.
-The goal of this project is to learn how to use different coding-techniques, agile-development 
+This project was developed through the subject TDT4140 Software Development at NTNU. 
+The goal of this project was to learn how to use different coding-techniques, agile-development 
 as well as obtaining experience in different development utilities (Gitlab, Maven, Eclipse, 
 NTNU-database etc.).
 
